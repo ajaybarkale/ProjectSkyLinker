@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.app.filters.JWTRequestFilter"/>
+    <fullyQualifiedTypeName name="com.app.jwt_utils.JwtUtils"/>
+    <fullyQualifiedTypeName name="com.app.pojos.User"/>
+    <fullyQualifiedTypeName name="com.app.service.IUserService"/>
+    <fullyQualifiedTypeName name="com.app.dto.UserDTO"/>
+    <fullyQualifiedTypeName name="com.app.dto.ResponseDTO"/>
+    <fullyQualifiedTypeName name="com.app.dto.LoginDTO"/>
+    <fullyQualifiedTypeName name="com.app.dto.AuthenticationResponse"/>
+</qualifiedTypeNameHistroy>
